@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Gas Agency Application</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="gas_bottle_adding_button">Please add Bottle</string>
+    <string name="text_view_9kgs">9 KGs</string>
+    <string name="text_view_19kgs">19 KGs</string>
+    <string name="text_view_47kgs">47.5 KGs</string>
+    <string name="text_view_425kgs">425 KGs</string>
+    <string name="auto_hint_edit_text">0</string>
+    <string name="submit_button">Submit</string>
+    <string name="text_view_1">Bottle Size</string>
+    <string name="text_view_2">Units</string>
+    <string name="cart_button_description">Button to add bottles in the cart</string>
+</resources>
