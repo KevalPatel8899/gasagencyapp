@@ -13,4 +13,8 @@
     <string name="text_view_1">Bottle Size</string>
     <string name="text_view_2">Units</string>
     <string name="cart_button_description">Button to add bottles in the cart</string>
+    <string name="ask_otp">Send OTP</string>
+    <string name="edit_text_hint_mobile">Mobile</string>
+    <string name="text_view_mobile_number">Enter mobile number</string>
+    <string name="image_content_description">Image Mobile number</string>
 </resources>

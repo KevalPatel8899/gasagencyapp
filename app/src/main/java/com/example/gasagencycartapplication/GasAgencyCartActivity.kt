@@ -1,5 +1,6 @@
 package com.example.gasagencycartapplication
 
+import android.content.Intent
 import android.os.Bundle
 import android.widget.*
 import androidx.appcompat.app.AppCompatActivity
@@ -14,6 +15,7 @@ class GasAgencyCartActivity  : AppCompatActivity() {
         val editText47KGs: EditText = findViewById(R.id.editTextNumberSigned47KGs)
         val editText425KGs: EditText = findViewById(R.id.editTextNumberSigned425KGs)
         val buttonSubmit: Button = findViewById(R.id.submitButton)
+        val loginNumberIntent = Intent(this, LoginOtpActivity::class.java)
 
         buttonSubmit.setOnClickListener {
             println("Fucking works")
